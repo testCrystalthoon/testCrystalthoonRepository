@@ -19,6 +19,7 @@
 		</tr>
 		<input type="submit" value="저장">
 	</table>	
+	
 </form>
 </body>
 </html>
