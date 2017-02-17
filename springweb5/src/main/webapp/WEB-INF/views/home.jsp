@@ -23,6 +23,7 @@
 		</c:otherwise>
 	</c:choose>
 	<li><a href="boardlist">게시판</a></li>
+	<li>11111</li>
 </ul>
 
 </body>
