@@ -41,5 +41,11 @@
   		from web5board
   		where boardnum = #{boardnum}
   	</select>
+  	<select id="totalCount" resultType="int">
+  		select 
+  			count(*)
+		from
+  			web5board
+  	</select>
   
 </mapper>

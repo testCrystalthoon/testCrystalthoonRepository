@@ -42,5 +42,10 @@ public class MemberDAO {
 		int result = mapper.update(member);
 		return result;
 	}
-
+	
+	public int totalCount() {
+		int result = 0;
+		
+		return result;
+	}
 }
